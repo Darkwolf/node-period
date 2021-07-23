@@ -1,0 +1,41 @@
+{
+  "name": "@darkwolf/period",
+  "version": "1.0.0",
+  "description": "Period",
+  "type": "module",
+  "main": "./lib/index.cjs",
+  "exports": {
+    "import": "./lib/index.mjs",
+    "require": "./lib/index.cjs"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkwolf/node-period.git"
+  },
+  "keywords": [
+    "period",
+    "duration",
+    "time",
+    "calendar",
+    "parser",
+    "converter",
+    "formatter"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkwolf/node-period/issues"
+  },
+  "homepage": "https://github.com/Darkwolf/node-period#readme",
+  "dependencies": {
+    "@darkwolf/duration": "^1.1.3",
+    "@darkwolf/primordials": "^1.2.1",
+    "@darkwolf/timestamp": "^1.0.7"
+  }
+}
