@@ -36,6 +36,6 @@
   "dependencies": {
     "@darkwolf/duration": "^1.1.4",
     "@darkwolf/primordials": "^1.2.1",
-    "@darkwolf/timestamp": "^1.0.9"
+    "@darkwolf/timestamp": "^1.1.5"
   }
 }
