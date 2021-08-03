@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/period",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Period",
   "type": "module",
   "main": "./lib/index.cjs",
